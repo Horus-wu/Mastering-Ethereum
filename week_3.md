@@ -45,3 +45,12 @@ Tips:
 ## 以太坊地址
 以太坊地址是唯一标识符(unique identifiers)，它们是使用单向哈希函数（Keccak-256）从公钥或合约派生的.
 *以太坊地址是十六进制数字，从公钥的Keccak-256哈希的最后20个字节导出的标识符。*
+
+## 问题？
+- How to generate address from private key?
+- How to validate address?
+- How to verify a signed message by private key?
+- What's cryptographic hash functions and it's main properties
+- What's asymmetric cryptography and it's main properties
+- What is discrete logarithm problem and Elliptic curve cryptography
+- Address's checksum format
